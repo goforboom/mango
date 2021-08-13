@@ -19,10 +19,10 @@ docker build -t goforboom/mango .
 To return to the official image:
 
 ```shell
-docker pull goforboom/mango
+docker pull ghcr.io/goforboom/mango
 ```
 
 ## Use as base image
 ```Dockerfile
-FROM goforboom/mango:latest
+FROM ghcr.io/goforboom/mango:latest:latest
 ```
