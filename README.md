@@ -24,5 +24,5 @@ docker pull ghcr.io/goforboom/mango
 
 ## Use as base image
 ```Dockerfile
-FROM ghcr.io/goforboom/mango:latest:latest
+FROM ghcr.io/goforboom/mango:latest
 ```
