@@ -1,16 +1,16 @@
 # Mango docker image
-🥭 Mango is lightweight Docker image contains Node.js and Nginx for super easy and fast builds
+🥭 Mango is lightweight Docker image contains Node.js and Nginx for super easy and fast development circle.
 
 The ```latest``` tag is currently:
 
-- nginx:1.15.7-alpine
-- nodejs:14.17.1
-- npm:7.17.0
-- yarn:1.22.10
+- Nginx 1.15.7-alpine
+- Node.js 14.17.1
+- NPM 7.17.0
+- Yarn 1.22.10
 
 ## Development
 
-To test changes locally, you can edit this image and rebuild it, replacing the hoosin/alpine-nginx-nodejs image on your machine:
+To test changes locally, you can edit this image and rebuild it, replacing the image on your machine:
 
 ```shell
 docker build -t goforboom/mango .
