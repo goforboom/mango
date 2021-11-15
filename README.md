@@ -3,11 +3,11 @@
 
 The ```latest``` tag is currently:
 
-- nginx:1.15.7-alpine
-- nodejs:14.17.1
-- npm:7.17.0
-- yarn:1.22.10
-
+- Nginx: stable alpine [https://hub.docker.com/_/nginx](Docker Hub)
+- Node.js: 16.13
+- NPM: 8.1
+- Yarn: 1.22
+ 
 ## Development
 
 To test changes locally, you can edit this image and rebuild it, replacing the hoosin/alpine-nginx-nodejs image on your machine:
