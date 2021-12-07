@@ -3,7 +3,7 @@
 
 The ```latest``` tag is currently:
 
-- Nginx: stable alpine [https://hub.docker.com/_/nginx](Docker Hub)
+- Nginx: stable alpine [https://hub.docker.com/nginx](DockerHub)
 - Node.js: 16.13
 - NPM: 8.1
 - Yarn: 1.22
